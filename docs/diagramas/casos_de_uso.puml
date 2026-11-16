@@ -1,0 +1,44 @@
+@startuml casos_de_uso
+
+title Sistema de Gestão de Biblioteca Universitária (SGBU)
+left to right direction
+
+skinparam packageStyle rectangle
+skinparam shadowing false
+
+actor "Membro" as M
+actor "Bibliotecário" as B 
+
+rectangle "Sistema de Gestão de Biblioteca Universitária" {
+
+    usecase "UC-01\nConsultar acervo" as UC01
+    usecase "UC-02\nVerificar disponibilidade" as UC02
+    usecase "UC-03\nSolicitar empréstimo" as UC03
+    usecase "UC-04\nProcessar empréstimo" as UC04
+    usecase "UC-05\nSolicitar devolução" as UC05
+    usecase "UC-06\nProcessar devolução" as UC06
+    usecase "UC-07\nRealizar reserva" as UC07
+
+    usecase "UC-08\nGerenciar acervo" as UC08
+    usecase "UC-09\nGerenciar membros" as UC09
+    usecase "UC-10\nGerenciar reservas" as UC10
+    usecase "UC-11\nGerenciar multas" as UC11
+
+}
+
+M -- UC01
+M -- UC02
+M -- UC03
+M -- UC05
+M -- UC07
+
+B -- UC01
+B -- UC02
+B -- UC04
+B -- UC06
+B -- UC08
+B -- UC09
+B -- UC10
+B -- UC11
+
+@enduml

@@ -1,0 +1,14 @@
+C:\Users\Bruno Vieira\Desktop\Bruno\Infnet-Aluno\Bloco - Desenvolvimento Back-End\PB\TP1_Biblioteca\src\BibliotecaStandaloneTP1\bin\Debug\net10.0\BibliotecaStandaloneTP1.exe
+C:\Users\Bruno Vieira\Desktop\Bruno\Infnet-Aluno\Bloco - Desenvolvimento Back-End\PB\TP1_Biblioteca\src\BibliotecaStandaloneTP1\bin\Debug\net10.0\BibliotecaStandaloneTP1.deps.json
+C:\Users\Bruno Vieira\Desktop\Bruno\Infnet-Aluno\Bloco - Desenvolvimento Back-End\PB\TP1_Biblioteca\src\BibliotecaStandaloneTP1\bin\Debug\net10.0\BibliotecaStandaloneTP1.runtimeconfig.json
+C:\Users\Bruno Vieira\Desktop\Bruno\Infnet-Aluno\Bloco - Desenvolvimento Back-End\PB\TP1_Biblioteca\src\BibliotecaStandaloneTP1\bin\Debug\net10.0\BibliotecaStandaloneTP1.dll
+C:\Users\Bruno Vieira\Desktop\Bruno\Infnet-Aluno\Bloco - Desenvolvimento Back-End\PB\TP1_Biblioteca\src\BibliotecaStandaloneTP1\bin\Debug\net10.0\BibliotecaStandaloneTP1.pdb
+C:\Users\Bruno Vieira\Desktop\Bruno\Infnet-Aluno\Bloco - Desenvolvimento Back-End\PB\TP1_Biblioteca\src\BibliotecaStandaloneTP1\obj\Debug\net10.0\BibliotecaStandaloneTP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Vieira\Desktop\Bruno\Infnet-Aluno\Bloco - Desenvolvimento Back-End\PB\TP1_Biblioteca\src\BibliotecaStandaloneTP1\obj\Debug\net10.0\BibliotecaStandaloneTP1.AssemblyInfoInputs.cache
+C:\Users\Bruno Vieira\Desktop\Bruno\Infnet-Aluno\Bloco - Desenvolvimento Back-End\PB\TP1_Biblioteca\src\BibliotecaStandaloneTP1\obj\Debug\net10.0\BibliotecaStandaloneTP1.AssemblyInfo.cs
+C:\Users\Bruno Vieira\Desktop\Bruno\Infnet-Aluno\Bloco - Desenvolvimento Back-End\PB\TP1_Biblioteca\src\BibliotecaStandaloneTP1\obj\Debug\net10.0\BibliotecaStandaloneTP1.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Vieira\Desktop\Bruno\Infnet-Aluno\Bloco - Desenvolvimento Back-End\PB\TP1_Biblioteca\src\BibliotecaStandaloneTP1\obj\Debug\net10.0\BibliotecaStandaloneTP1.dll
+C:\Users\Bruno Vieira\Desktop\Bruno\Infnet-Aluno\Bloco - Desenvolvimento Back-End\PB\TP1_Biblioteca\src\BibliotecaStandaloneTP1\obj\Debug\net10.0\refint\BibliotecaStandaloneTP1.dll
+C:\Users\Bruno Vieira\Desktop\Bruno\Infnet-Aluno\Bloco - Desenvolvimento Back-End\PB\TP1_Biblioteca\src\BibliotecaStandaloneTP1\obj\Debug\net10.0\BibliotecaStandaloneTP1.pdb
+C:\Users\Bruno Vieira\Desktop\Bruno\Infnet-Aluno\Bloco - Desenvolvimento Back-End\PB\TP1_Biblioteca\src\BibliotecaStandaloneTP1\obj\Debug\net10.0\BibliotecaStandaloneTP1.genruntimeconfig.cache
+C:\Users\Bruno Vieira\Desktop\Bruno\Infnet-Aluno\Bloco - Desenvolvimento Back-End\PB\TP1_Biblioteca\src\BibliotecaStandaloneTP1\obj\Debug\net10.0\ref\BibliotecaStandaloneTP1.dll
