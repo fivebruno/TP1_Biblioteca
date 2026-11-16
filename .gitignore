@@ -1,0 +1,19 @@
+# Arquivos gerados pelo .NET
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Visual Studio Code
+.vscode/
+
+# Arquivos temporários
+*.tmp
+*.log
+
+# Arquivos compactados
+*.rar
+*.zip
